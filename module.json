@@ -1,0 +1,10 @@
+{
+  "id": "serp",
+  "title": "Serpent Skull Module",
+  "description": "Figure out the actual name of this thing",
+  "version": "0.0.0",
+  "esmodules": ["scripts/index.js"],
+  "manifest": "https://raw.githubusercontent.com/kevinrobertandrews/serpent-skull-module/refs/heads/master/module.json",
+  "url": "https://github.com/kevinrobertandrews/serpent-skull-module",
+  "download": "https://github.com/kevinrobertandrews/serpent-skull-module/archive/refs/tags/0.0.1.zip"
+}
