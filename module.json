@@ -1,0 +1,7 @@
+{
+  "id": "serpent-skull-module",
+  "title": "Serpent Skull Module",
+  "description": "Figure out the actual name of this thing",
+  "version": "0.0.0",
+  "esmodules": ["scripts/main.js"]
+}
